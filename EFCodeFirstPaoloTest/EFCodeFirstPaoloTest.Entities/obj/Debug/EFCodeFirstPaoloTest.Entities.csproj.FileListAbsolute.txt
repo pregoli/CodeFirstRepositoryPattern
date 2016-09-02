@@ -1,0 +1,10 @@
+C:\Users\regolpw6\Desktop\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\bin\Debug\EFCodeFirstPaoloTest.Entities.dll
+C:\Users\regolpw6\Desktop\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\bin\Debug\EFCodeFirstPaoloTest.Entities.pdb
+C:\Users\regolpw6\Desktop\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\obj\Debug\EFCodeFirstPaoloTest.Entities.csprojResolveAssemblyReference.cache
+C:\Users\regolpw6\Desktop\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\obj\Debug\EFCodeFirstPaoloTest.Entities.dll
+C:\Users\regolpw6\Desktop\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\obj\Debug\EFCodeFirstPaoloTest.Entities.pdb
+C:\Users\paolo\Downloads\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\bin\Debug\EFCodeFirstPaoloTest.Entities.dll
+C:\Users\paolo\Downloads\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\bin\Debug\EFCodeFirstPaoloTest.Entities.pdb
+C:\Users\paolo\Downloads\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\obj\Debug\EFCodeFirstPaoloTest.Entities.csprojResolveAssemblyReference.cache
+C:\Users\paolo\Downloads\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\obj\Debug\EFCodeFirstPaoloTest.Entities.dll
+C:\Users\paolo\Downloads\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest\EFCodeFirstPaoloTest.Entities\obj\Debug\EFCodeFirstPaoloTest.Entities.pdb
